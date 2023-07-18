@@ -490,7 +490,7 @@ span {
     section {
         min-height: initial;
     }
-
+    
     .home {
         display: flex;
         align-items: center;
@@ -538,7 +538,7 @@ span {
     #menu-icon {
         display: block;
     }
-    
+
     .navbar {
         position: absolute;
         top: 100%;
