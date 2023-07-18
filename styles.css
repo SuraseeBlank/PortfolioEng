@@ -405,6 +405,10 @@ span {
         font-size: 55%;
     }
 
+    section {
+        min-height: initial;
+    }
+
     .home {
         display: flex;
         align-items: center;
@@ -483,6 +487,10 @@ span {
         font-size: 40%;
     }
 
+    section {
+        min-height: initial;
+    }
+
     .home {
         display: flex;
         align-items: center;
@@ -511,6 +519,11 @@ span {
 
     .portfolio-container {
         grid-template-columns: none;
+    }
+
+    .certificate-container {
+        display: flex;
+        flex-direction: column;
     }
 
     .social-media a {
